@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "733350061884",
+    "firebase_url": "https://zarabiaj-cfee0.firebaseio.com",
+    "project_id": "zarabiaj-cfee0",
+    "storage_bucket": "zarabiaj-cfee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733350061884:android:85021ffccab65b80eee039",
+        "android_client_info": {
+          "package_name": "com.zarabiaj.emilioner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733350061884-0bpnjri4hdhhp04397fad77kc1h1h309.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zarabiaj.emilioner",
+            "certificate_hash": "c9cab983ff1b810034c6844b51cb3beb6a5c3ae2"
+          }
+        },
+        {
+          "client_id": "733350061884-jqse0o5ijfpqnlnks7rnje6aftvl39g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvq6bz6zDMHs6BxIcME2Zg-9Rvx3ns-Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733350061884-jqse0o5ijfpqnlnks7rnje6aftvl39g9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
